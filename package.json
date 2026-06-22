@@ -1,0 +1,11 @@
+{
+  "name": "saikiran-portfolio",
+  "version": "1.0.0",
+  "description": "B. Sai Kiran — Video Editor & Designer Portfolio",
+  "scripts": {
+    "start": "npx serve . -p $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
